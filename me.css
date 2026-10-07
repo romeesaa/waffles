@@ -1,0 +1,60 @@
+
+
+
+.pixelify-sans{
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: bold;
+}
+
+body{
+   background-color: rgb(243, 221, 221);
+}
+
+h1{
+      font-family: "Pixelify Sans", sans-serif;
+      font-size: 30px;
+      text-align: center;
+      color: rgb(182, 117, 240);
+}
+
+h2{
+      font-family: "VT323", monospace;
+      font-size: 30px;
+      text-align: center;   
+    color: rgb(182, 117, 240);
+}
+
+
+nav a{
+     font-family: "Pixelify Sans", sans-serif;
+     font-size: 30px;
+     text-decoration: double;
+     color: rgb(212, 25, 134);
+     background-color: aliceblue;
+}
+
+p{
+   font-family: "Pixelify Sans", sans-serif;
+     font-size: 20px;
+     color: rgb(241, 88, 134);
+     text-align: center;
+}
+
+a{
+     text-decoration: double;
+     color: rgb(212, 25, 134);
+     text-align: center;
+}
+
+img{
+  align-items: center;
+  align-content: center;
+}

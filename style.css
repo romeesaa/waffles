@@ -1,0 +1,67 @@
+
+
+.pixelify-sans{
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.vt323-regular {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: bold;
+}
+
+body{
+    background-image:linear-gradient(45deg,rgb(216, 165, 173),rgb(171, 216, 171));
+}
+
+header{
+   align-items: center;
+   size: 10px;
+}
+
+.larp{
+    background-color: rgb(162, 221, 162);
+    text-align: center;
+    font-family: "VT323", monospace;
+    font-size: 20px;
+}
+
+nav{
+    display: flex;
+    justify-self: center;
+    gap:20px;
+    margin-top: 20px;
+    background-color: rgb(250, 250, 250);
+}
+
+nav a{
+font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: bold;
+  color: palevioletred;
+  text-decoration: dashed;
+  transition: color 0.3s;
+  font-size: 35px;
+
+}
+
+nav a:hover{
+    color: #50c5b5;
+}
+
+footer{
+    bottom: 10px;
+    text-align: center;
+    font-family: 'Arial Narrow';
+    color: rgb(202, 52, 89);
+}
+
+body{
+    background-image: url(3fd1206d085ab84f035bc529c61694e5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
