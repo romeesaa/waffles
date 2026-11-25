@@ -1,5 +1,6 @@
 
 # the website
+this was my first ever website that i created or maybe second dont really remember that well. but this is supposed to be an personal site with an about me for now.
 
 <img width="1598" height="860" alt="image" src="https://github.com/user-attachments/assets/232e30e5-8429-4aec-a8a1-26063c717b2e" />
 
